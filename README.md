@@ -1,0 +1,1 @@
+# reactstudies-22-rating-select-component
